@@ -1,0 +1,3 @@
+[submodule "Sample-Collection-app"]
+	path = Sample-Collection-app
+	url = https://github.com/RohitSaini15/Sample-Collection-app.git
